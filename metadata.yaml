@@ -1,0 +1,35 @@
+_repo: Flores-do-Campo_27599
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Deus, João de
+    aliases:
+    - De Deus, João
+    - Deus, Joao de
+    - Nogueira Ramos, João de Deus
+    - Ramos, João de Deus
+    birthdate: 1830
+    deathdate: 1896
+    gutenberg_agent_id: '26769'
+    url: http://www.gutenberg.org/2009/agents/26769
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Jo%C3%A3o_de_Deus
+    - http://pt.wikipedia.org/wiki/Jo%C3%A3o_de_Deus_de_Nogueira_Ramos
+description: ''
+gutenberg_bookshelf: PT Poesia
+gutenberg_issued: '2008-12-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27599'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese poetry -- 19th century'
+title: Flores do Campo
+url: http://www.gutenberg.org/ebooks/27599
